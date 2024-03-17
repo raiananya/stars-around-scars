@@ -28,8 +28,7 @@ body {
   background: radial-gradient(rgb(245, 255, 192), rgba(255, 211, 211, 0.796));
 }
 #quoteDisplay {
-  /* font-family: "Caveat", cursive; */
-  font-family: "Great Vibes", cursive;
+  font-family: "Caveat", cursive; 
   font-size: 3rem;
   padding: 15%;
   color: rgba(134, 134, 17, 0.781);
